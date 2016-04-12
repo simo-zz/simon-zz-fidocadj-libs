@@ -26,7 +26,6 @@ EV 96 96 104 104 0
 LI 100 97 100 99 0
 LI 99 98 101 98 0
 LI 99 102 101 102 0
-
 [128 Voltage arrow]
 PP 100 98 101 100 99 100 0
 {Passive}
@@ -186,7 +185,7 @@ FCJ 2 0 3 1 0 0
 LI 98 96 94 98 0
 FCJ 2 0 3 1 0 0
 {Sources and Reference}
-[53 Ground]
+[53 Reference ground]
 LI 97 102 103 102 0
 LI 103 102 100 105 0
 LI 100 105 97 102 0
